@@ -1,0 +1,10 @@
+[custom.all.plan]
+type = "local"
+path = "."
+ipkg = "plan.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.plan-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
